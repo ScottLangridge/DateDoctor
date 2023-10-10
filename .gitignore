@@ -161,4 +161,3 @@ cython_debug/
 
 # Photos
 photos/
-!folder/.gitkeep
